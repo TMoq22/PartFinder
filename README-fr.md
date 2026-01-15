@@ -1,7 +1,12 @@
 # PartFinder
 
+[english version](README.md)  
+
 ## Présentation du projet Flask
 Ce projet a été réalisé dans le cadre de la spécialité NSI. Il consiste en la création d'une application web le module Python : Flask.
+
+> [!NOTE]
+> Ce dépôt est une copie d'un ancien dépôt GitHub
 
 > [!CAUTION]
 > Ce projet ne dispose d'aucune réelle sécurité, veuillez ne pas y entrer d'informations personnelles ni vos mots de passe habituels

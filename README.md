@@ -5,6 +5,9 @@
 ## Flask Project Presentation
 This project was completed as part of the NSI (Digital Science and Technology) specialization. It consists of creating a web application using the Python module: Flask.
 
+> [!NOTE]
+> This repository is a copy of an older GitHub repository.
+
 > [!CAUTION]
 > This project has no real security; please do not enter any personal information or your usual passwords.
 
@@ -49,8 +52,7 @@ __Features I would have liked to implement or which were abandoned due to techni
 > Using the second URL, you can connect to the site from another local computer
 
 ## ©️ Credits
-- Development: Titouan Moquet
-- Academic Year: 2024-2025
+- Development: Titouan Moquet 2024-2025
 
 > Current Version: V2.5 / Release_1.2
 
